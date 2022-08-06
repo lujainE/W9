@@ -65,6 +65,7 @@ img{
   left: 0;
   z-index: var(--z-fixed);
   background-color: var(--first-color);
+  display: none;
 }
 
 /*===== HOME =====*/
